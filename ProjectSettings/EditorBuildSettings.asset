@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: e2bfa068534dd7846840aa0adb0069ee
+  - enabled: 0
+    path: Assets/Scenes/Amanda-Dev.unity
+    guid: 8613c48c54bce45499f7844f47f496d0
+  - enabled: 0
+    path: Assets/Scenes/Level 1.unity
+    guid: a03b81e6a485e9145b8ef8da9bf0692a
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: a03b81e6a485e9145b8ef8da9bf0692a
+  - enabled: 1
+    path: Assets/Scenes/Amanda-Dev.unity
+    guid: 8613c48c54bce45499f7844f47f496d0
+  - enabled: 1
+    path: Assets/Scenes/Testing Scene.unity
+    guid: 75448038af56e044fa3446ff6ba7134e
+  m_configObjects: {}
